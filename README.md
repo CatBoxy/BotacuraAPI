@@ -1,7 +1,21 @@
-Grupo 9 Programatic
+# BotacuraAPI :mount_fuji: e-commerce API
 
-# Botacura :mount_fuji:
+My first grupal project, created with Node.js, SQL and Sequelize
 
-## Tablero de trabajo:pushpin::
+## General info
+This project is a simple API focused on the Botacura e-commerce. The main objective
+was to build from scratch an API to query data about products and users.
+	
+## Technologies
+Project is created with:
+* Node.js version: 16.6.2
+* MySQL
+* Sequelize version: v6.6.5
 
-- https://trello.com/b/3xSdFWir/proyecto-botacura
+## Features
+- Read list of products
+- Read one product
+- Read last product created
+- Read list of users
+- Read one user
+
