@@ -1,22 +1,22 @@
 {
-  "name": "repoSprint2",
+  "name": "BotacuraAPI",
   "version": "1.0.0",
-  "description": "Grupo 9 Programatic",
+  "description": "",
   "main": "app.js",
   "scripts": {
     "start": "node app.js"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/JuanLamb/ProgramaticGrupo9Sprint2.git"
+    "url": "git+https://github.com/CatBoxy/BotacuraAPI.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/JuanLamb/ProgramaticGrupo9Sprint2/issues"
+    "url": "https://github.com/CatBoxy/BotacuraAPI/issues"
   },
-  "homepage": "https://github.com/JuanLamb/ProgramaticGrupo9Sprint2#readme",
+  "homepage": "https://github.com/CatBoxy/BotacuraAPI#readme",
   "dependencies": {
     "bcryptjs": "^2.4.3",
     "cookie-parser": "^1.4.5",
